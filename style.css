@@ -1,0 +1,35 @@
+footer{
+    background: #FFF8F3;
+}
+nav{
+    display: flex;
+    padding: 68PX;
+    justify-content: space-between;
+    
+}
+ul{
+    display: flex;
+}
+ul>li{
+    list-style: none;
+   padding-right: 80PX;
+   
+}
+ul>li>a{
+    text-decoration: none;
+}
+.btn{
+    background: #FD6E0A;
+    border: 0;
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+.btn>a{
+    text-decoration: none;
+}
+a{
+    color: #181818000000;
+}
+span{
+    color: #FD6E0A;
+}
